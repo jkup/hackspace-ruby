@@ -1,6 +1,6 @@
-# Sinatra API
+# Hackspace
 
-A app for teaching myself how to use the Sinatra framework
+Find local hotspots in your area
 
 ## Installation
 
